@@ -1,0 +1,8 @@
+datetime,merchant,category,amt,distance,hour,day,month,gender,cc_num,result
+2025-07-23 23:51:00.856882,karuna_biswas,misc_net,768.0,1.1917773429107321,5,10,3,Female,54638892387639,Fraudulent Transaction
+2025-07-23 23:53:31.644861,Marjamil,fishing,7893.0,222.17232030050386,3,3,1,Male,79289497269487,Fraudulent Transaction
+2025-07-23 23:57:16.754809,Costco,Wholesale,120.0,0.014711078171921695,18,22,7,Female,1111222233334444,Legitimate Transaction
+2025-07-23 23:59:23.688397,Fardin_Likhon,market,400.0,0.014648443501934576,18,22,7,Male,2242220005101501,Fraudulent Transaction
+2025-07-31 09:58:39.225572,fardin67,fishing,5689.0,1225.8139832486302,7,4,3,Male,576753879808,Fraudulent Transaction
+2025-08-13 23:25:15.628635,fardin567,loser,8900.0,11.170897721270004,11,18,5,Male,242220005101501,Fraudulent Transaction
+2025-08-17 22:18:33.337658,"fraud_Rippin, Kub and Mann",misc_net,700.0,1276.5841314557636,12,15,6,Male,2242220005101542,Fraudulent Transaction
